@@ -16,7 +16,7 @@ Time spent: **10** hours spent in total
                            2) Add href="</a><a title=" onmouseover=alert('test') using the text edit.
          		   3) publish.
         		   4) Test will pop up.
-  - [ ] Affected source code:
+  - [x] Affected source code:
   -[Reference](https://klikki.fi/adv/wordpress3.html)
 
 1. (Required) Vulnerability Name or ID
